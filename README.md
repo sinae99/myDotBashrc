@@ -1,1 +1,2 @@
-# my personal .bashrc
+### my personal .bashrc
+----------------------------------------------------
