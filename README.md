@@ -1,1 +1,1 @@
-salam
+# my personal .bashrc
