@@ -1,19 +1,4 @@
-### my personal .bashrc
+### Dotbashrc
+--------------------------------------
 
-my custom commands :
-
-
-info (sysinfo.sh)
-
-
-
-ls 
-
-
-netstat
-
-
-
-ifconfig
-
-
+minimal baseline tools
