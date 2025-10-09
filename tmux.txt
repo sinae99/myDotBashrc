@@ -1,0 +1,41 @@
+# Tabs:
+ 1 - CONFIG: edit configs & playbooks
+ 2 - DOCKER: container managment
+ 3 - TEST: test for results
+ 4 - LOGS: logs & monitoring
+ 5 - NOTES: document steps
+
+# shortcuts
+ Ctrl+b c → new tab
+ Ctrl+b n/p → next/prev
+ Ctrl+b , → rename tab
+ Ctrl+b % or " → split pane
+
+
+─────────────────────────────
+ MENTAL CHECKLIST
+─────────────────────────────
+
+- Service/package installed & enabled
+
+- Service running after reboot
+
+- Config syntax validated
+
+- Ports open & service accessible locally
+
+- Service accessible remotely (if allowed)
+
+- Firewall rules checked
+
+- Logs show no errors
+
+- Resource usage normal (CPU, RAM, Disk)
+
+- Backup created for important configs
+
+- Notes/documentation updated
+
+#####################################################################
+# END OF FILE
+#####################################################################
